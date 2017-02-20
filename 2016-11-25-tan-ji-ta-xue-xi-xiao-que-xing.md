@@ -1,7 +1,8 @@
 ---
 layout: post
-title: You're up and running!
+title: 弹吉他、学习和小确幸
 ---
+
 
 ![](http://upload-images.jianshu.io/upload_images/147665-c4353871aa81b231.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -49,3 +50,6 @@ title: You're up and running!
 **朝着自己感兴趣的方向深入下去，不一定会到达你以为的那个目的地，但是它带领你去到的另外一个目的说不定也是花香鸟语呢。** 相信美好的事情随时都会发生。
 ***
 
+
+
+ 
